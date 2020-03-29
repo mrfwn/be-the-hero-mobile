@@ -14,7 +14,7 @@
    - Clone code - "git clone url_repository" .
    - Running "yarn" in path .
   
-   - run "yarn dev" in terminal.
+   - run "expo start" in terminal.
 
    - In insomnia import workspace file "Insomnia_request_test.json"
 

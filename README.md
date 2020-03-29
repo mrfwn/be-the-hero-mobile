@@ -22,10 +22,13 @@
    - Expo
    - Axios
    - React Navigation
+   - Animation
 
   ## Features:
   - List/Send Message Whatsapp/Send Message Email Incidents
   - Refresh Incidents
+  - Animation in scroll 
+  - Animation in show cards
 
 
 </div>
